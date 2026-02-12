@@ -1,0 +1,6 @@
+down
+flip
+hover
+none
+stop
+up
