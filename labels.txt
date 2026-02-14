@@ -1,6 +1,6 @@
 down
+fist
 flip
-hover
 none
-stop
+palm
 up
