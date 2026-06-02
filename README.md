@@ -3,7 +3,7 @@
 A smart drone control system that uses a **Custom Convolutional Neural Network (CNN)** for hand gesture recognition and OpenCV's **Haar Cascades** for automatic face tracking. The system intelligently switches modes: it obeys hand commands when a gesture is seen and switches to "Follow Me" mode when hands are not detected.
 
 ## 🎥 Project Demonstration
-**[Click here to watch the project demonstration video]([https://drive.google.com/file/d/1it5YOlV8ufOdd9ykmRD7WZrZ2Fe9gCh-/view?usp=drive_link])**
+**[Click here to watch the project demonstration video](https://drive.google.com/file/d/1it5YOlV8ufOdd9ykmRD7WZrZ2Fe9gCh-/view?usp=drive_link)**
 
 ## 🚀 Key Features
 * **🧠 Custom CNN Architecture:** 🧠 Built and trained a deep learning model from scratch (4 Conv Blocks, 256 filters) achieving 93% training accuracy and ~89% validation accuracy on a custom dataset.
